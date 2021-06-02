@@ -1,0 +1,14 @@
+full-time job	30	90	have house	1	Yes
+full-time job	38	60	have house	1	No
+full-time job	60	85	no house		1	Yes
+part-time job	72	92	have house	1	No
+full-time job	20	91	have house	1	Yes
+part-time job	40	92	no house		1	Yes
+part-time job	26	78	no house		1	No
+part-time job	45	65	have house	1	No
+part-time job	32	85	have house	1	Yes
+no job	15	90	no house		1	No
+no job	25	87	have house	1	Yes
+no job	75	81	have house	1	No
+no job	33	86	no house		1	No
+no job	47	96	no house		1	No
